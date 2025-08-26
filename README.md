@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá, eu sou Luiza!</h1>
+<h1 align="center">👋 Olá, eu sou a Luiza!</h1>
 <p align="center">
-🔬 Aspirante a Bioinformata | 🌱 Explorando a Genômica de Plantas | 💻 Amante de Código Aberto
+🔬 Aspirante a Bioinformata | 🌱 Explorando a Genômica e Transcriptômica de Plantas | 💻 Amante de Código Aberto
 </p>
 
 ---
@@ -9,7 +9,7 @@
 - 🧬 Trabalho com **família TPS em *Vigna unguiculata***
 - 📊 Curto brincar com **dados genômicos e transcriptômicos**
 - 🛠️ Ferramentas favoritas: **Python, R, Bash, Linux**
-- 🦇 Fun fact: fascinado por sci-fi 
+- 🌌 Fun fact: fascinada por **astrofísica** e **sci-fi**
 
 ---
 
