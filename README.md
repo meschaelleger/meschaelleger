@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Meschael Leger</h1>
+<h1 align="center">👋 Olá, eu sou Luiza!</h1>
 <p align="center">
 🔬 Aspirante a Bioinformata | 🌱 Explorando a Genômica de Plantas | 💻 Amante de Código Aberto
 </p>
